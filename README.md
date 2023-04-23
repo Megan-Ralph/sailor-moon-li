@@ -1,4 +1,4 @@
-# sailor-moon-li
+# sailor-moon-li-chrome-extension
 
 Created for a fellow dev and friend who was bored of normal Lorem Ipsum!
 
